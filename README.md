@@ -43,3 +43,4 @@ WHERE dept_id IN (
     GROUP BY dept_id
     HAVING COUNT(*)>=2
 );
+<img width="416" height="475" alt="image" src="https://github.com/user-attachments/assets/f17f6741-da28-44dc-9631-96c5bd614221" />
