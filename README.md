@@ -30,6 +30,9 @@ INSERT INTO Courses (course_id, course_name, dept_id) VALUES
 (108, 'Surveying', 4),
 (109, 'Embedded Systems', 5),
 (110, 'VLSI Design', 5);
+
+<img width="917" height="544" alt="image" src="https://github.com/user-attachments/assets/8ba279a6-a4eb-4927-a731-8b40e16b312d" />
+
 SELECT * FROM Departments;
 SELECT * FROM  Courses;
 SELECT dept_name
